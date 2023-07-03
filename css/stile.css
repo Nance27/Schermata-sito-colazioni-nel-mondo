@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    background-color: #A3BEBC;
+}
+
+.elemento {
+  width: 50%;
+}
+
+header {
+    background-color: #E5AEAC;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header ul {
+    display: flex;
+    list-style: none;
+    padding: 15px;
+    margin: 15px;
+  }
+  
+  header ul li {
+    margin-right: 10px;
+  }
+  
+  header ul li:last-child {
+    margin-right: 15px;
+  }
+
+  .hero {
+    background-color: #C26969;
+    border-radius: 70px;
+    padding: 145px;
+    color: white;
+    width: 145px;
+    margin-left: 600px;
+   margin-top: 100px;
+  }
+
+
+  .Primo {
+    background-color: #C26969;
+    border-radius: 70px;
+    padding: 50px;
+    color: white;
+    width: 190px;
+    margin-left: 200px;
+   margin-top: 300px;
+  }
+
+  .secondo {
+    background-color: #C26969;
+    border-radius: 70px;
+    padding: 50px;
+    color: white;
+    width: 190px;
+    margin-left: 700px;
+   margin-top: -300px;
+  }
+
+
+
+
+  .terzo {
+    background-color: #C26969;
+    border-radius: 70px;
+    padding: 50px;
+    color: white;
+    width: 190px;
+    margin-left: 200px;
+   margin-top: 300px;
+  }
+
+
+  .quarto {
+    background-color: #C26969;
+    border-radius: 70px;
+    padding: 50px;
+    color: white;
+    width: 190px;
+    margin-left: 700px;
+   margin-top: -335px;
+  }
+
+  .quinto {
+    background-color: #C26969;
+    border-radius: 70px;
+    padding: 50px;
+    color: white;
+    width: 190px;
+    margin-left: 200px;
+   margin-top: 300px;
+  }
+
+
+  .sesto {
+    background-color: #C26969;
+    border-radius: 70px;
+    padding: 50px;
+    color: white;
+    width: 190px;
+    margin-left: 700px;
+   margin-top: -300px;
+  }
+  
+  #Pakistan{
+    position: absolute;
+    top: 805px;
+    left: 200px;
+  }
+
+  #corea{
+    position: absolute;
+    top: 805px;
+    left: 700px;
+  }
+
+
+  #cina{
+    position: absolute;
+    top: 1420px;
+    left: 200px;
+  }
+
+
+  #messico{
+    position: absolute;
+    top: 1420px;
+    left: 700px;
+  }
+
+  #egitto{
+    position: absolute;
+    top: 2060px;
+    left: 200px;
+  }
+
+  #USA{
+    position: absolute;
+    top: 2070px;
+    left: 700px;
+  }
+
+  #copertina{
+   position: absolute;
+   top: 210px;
+   left: 160px;
+    
+  }
+ 
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E5AEAC;
+    padding: 10px;
+}
+
+.footer-left {
+    flex-grow: 1;
+}
+
+.footer-right {
+    background-color: #ffff;
+    padding: 5px 10px;
+}
+
